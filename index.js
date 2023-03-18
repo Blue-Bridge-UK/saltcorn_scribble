@@ -9,7 +9,6 @@ const headers = [
 
 module.exports = {
     sc_plugin_api_version: 1,
-    fieldviews: { scribble },
     plugin_name: "scribble",
     headers,
   };

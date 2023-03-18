@@ -1,0 +1,8 @@
+{
+    "name": "@saltcorn/scribble",
+    "version": "0.1",
+    "description": "A scribble pad for a file upload field",
+    "main": "index.js",
+    "author": "Toby Hallam (Blue Bridge UK)",
+    "repository": "github:blue-bridge-uk/saltcorn_scribble"
+}
